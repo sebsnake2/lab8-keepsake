@@ -289,9 +289,8 @@ a:active {
 /* карта-профіль у сітці works */
 .profile-card {
     position: relative;
-    background: var(--dark-bg)
-        url("./images/blue-purple-marble-background_53876-104406.avif")
-        center/cover no-repeat;
+    background: var(--dark-bg) url("./images/Article 4.avif") center/cover
+        no-repeat;
     color: #ffffff;
     height: 300px;
     display: flex;
@@ -332,9 +331,8 @@ a:active {
 
 .profile-card:hover,
 .profile-card:focus-within {
-    background: var(--dark-bg)
-        url("./images/blue-purple-marble-background_53876-104406.avif")
-        center/cover no-repeat;
+    background: var(--dark-bg) url("./images/Article 4.avif") center/cover
+        no-repeat;
     border-color: transparent;
 }
 
